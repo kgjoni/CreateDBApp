@@ -1,0 +1,7 @@
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe.config
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.pdb
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.exe
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.pdb
+C:\Users\Kris\Desktop\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csprojResolveAssemblyReference.cache
